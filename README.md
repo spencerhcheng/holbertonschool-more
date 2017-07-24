@@ -8,7 +8,7 @@ Spencer Cheng: [github account](https://github.com/spencerhcheng), [twitter](htt
 #### Command challenge
 [Command Challege](https://cmdchallenge.com/)
 
-##### 0. First nine tasks
+#### 0. First nine tasks
 
 GitHub repository: holbertonschool-more
 Directory: command_line_for_the_win
